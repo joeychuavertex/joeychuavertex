@@ -24,11 +24,6 @@ I'm Joey, a Data Scientist at a Venture Capital who is passionate about the dyna
 
 🖌️ Figma | 🎨 Adobe Creative Suite
 
-
-## 🛠️ Technical Toolbox
-
-Project Management | Software Engineering | Full Stack Development |  UI/UX Design 
-
 ## 📫 Get in Touch
 
 - LinkedIn: (https://www.linkedin.com/in/joeychuasm)
