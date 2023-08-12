@@ -14,7 +14,12 @@ I'm Joey, a Data Scientist at a Venture Capital who is passionate about the dyna
 
 ## 💡 Skills
 
-Python | Data Science | Snowflake | Google Cloud Platform (GCP) | Figma | Agile Methodologies | Gitpod | GitHub | React.js | Next.js | Terraform | Tailwind CSS | Scikit-Learn | PyTorch | TensorFlow | Git | Django | TypeScript | JavaScript | SQL | Adobe Creative Suite | Amazon Web Services (AWS)
+🐍 Python | ⚛️ React.js | ⚛️ Next.js | 🎨 Tailwind CSS | 📜 JavaScript | 📜 TypeScript | 📊 SQL | 🌐 Django
+🛠️ Terraform  | ☁️ Amazon Web Services (AWS) | ☁️ Google Cloud Platform (GCP)
+📊 Data Science | 🔬 Scikit-Learn | 🚀 PyTorch | 🛠️ TensorFlow 
+🚀 Gitpod | 🐙 GitHub | 🐙 Git | 🚀 Agile Methodologies
+🖌️ Figma | 🎨 Adobe Creative Suite
+
 
 ## 🛠️ Technical Toolbox
 
