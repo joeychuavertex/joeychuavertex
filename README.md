@@ -22,7 +22,7 @@ Project Management | Software Engineering | Full Stack Development |  UI/UX Desi
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/joeychuasm)
-- Portfolio: [Your Portfolio Website](https://www.joeychua2020.com)
+- LinkedIn: (https://www.linkedin.com/in/joeychuasm)
+- Portfolio: (https://www.joeychua2020.com)
 
 Let's connect, collaborate, and drive innovation together!
