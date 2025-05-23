@@ -1,14 +1,28 @@
 ## 💡 Skills
 
-🐍 Python | ⚛️ React.js | ⚛️ Next.js | 🎨 Tailwind CSS | 📜 JavaScript | 📜 TypeScript | 📊 SQL | 🌐 Django
+**Languages & Frameworks**
+🐍 Python | 🧮 R | 📜 JavaScript | 📜 TypeScript | 📊 SQL
+⚛️ React.js | ⚛️ Next.js | 🌐 Django | 🎨 Tailwind CSS | 🌌 Three.js
 
-🛠️ Terraform  | ☁️ Amazon Web Services (AWS) | ☁️ Google Cloud Platform (GCP)
+**Cloud & DevOps**
+🛠️ Terraform | 🐳 Docker | ☁️ AWS | ☁️ GCP | 🚀 CI/CD (GitHub Actions, Cloud Build)
 
-📊 Data Science | 🔬 Scikit-Learn | 🚀 PyTorch | 🛠️ TensorFlow | 🧠 Generative AI
+**Databases & Storage**
+🐘 PostgreSQL | 🔍 Elasticsearch | 🗂️ Vector DBs (Pinecone, pgvector) | 🧾 Firebase
 
-🚀 Gitpod | 🐙 GitHub | 🐙 Git | 🚀 Agile Methodologies
+**AI / ML / Data Science**
+🔬 Scikit-Learn | 🚀 PyTorch | 🛠️ TensorFlow | 🤗 Hugging Face
+🧩 LangChain | 🤖 OpenAI, Geminie, Claude |
+🤖 Agent Workflows | 🕵️ Prompt Engineering | 📚 Retrieval-Augmented Generation (RAG)
+📦 MLflow | 🧪 Weights & Biases
 
-🖌️ Figma | 🎨 Adobe Creative Suite
+**Design & UI/UX**
+🎨 UI/UX Design | 🖌️ Figma | 🎨 Adobe Creative Suite
+
+**Tools & Workflow**
+🚀 Gitpod | 🐙 GitHub | 🐙 Git | 🔁 Agile Methodologies
+🧩 Jira | 🧭 Shortcut
+
 
 ## 📫 Get in Touch
 
