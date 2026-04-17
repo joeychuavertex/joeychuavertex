@@ -10,7 +10,7 @@ Terraform | Docker | AWS | GCP | CI/CD (GitHub Actions, Cloud Build)
 PostgreSQL | Elasticsearch | Vector DBs (Pinecone, pgvector) | Firebase
 
 **AI / ML / Data Science**
-Scikit-Learn | PyTorch | TensorFlow | Hugging Face | LangChain | OpenAI, Geminie, Claude | Agent Workflows | Prompt Engineering | Retrieval-Augmented Generation (RAG) | MLflow | 🧪 Weights & Biases
+Scikit-Learn | PyTorch | TensorFlow | Hugging Face | LangChain | OpenAI, Geminie, Claude | Agent Workflows | Prompt Engineering | Retrieval-Augmented Generation (RAG) | MLflow | Weights & Biases
 
 **Design & UI/UX**
 UI/UX Design | Figma | Adobe Creative Suite
